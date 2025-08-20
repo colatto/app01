@@ -117,7 +117,7 @@ export default function Layout() {
         <div className="p-4">
           <div className="flex items-center space-x-2">
             <Building2 className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900">Gestão /R3</span>
+            <span className="text-xl font-bold text-gray-900">GestPRO</span>
           </div>
         </div>
         
