@@ -41,7 +41,10 @@ export default function Login() {
             Gestão de Obras
           </h1>
           <p className="text-blue-200">
-            Sistema completo para construção civil
+            Sistema completo para Construção Civil
+          </p>
+          <p className="text-blue-200">
+            Deceri Engenharia
           </p>
         </div>
 
